@@ -70,7 +70,7 @@ const Main = () => {
                         </div>
                     </div>
                     <p className="bottom-info">
-                        Turing may display inaccurate info, including about people, so double check its responses. Your privacy and Turing apps
+                        Chitti may display inaccurate info, including about people, so double check its responses.
                     </p>
                 </div>
             </div>
